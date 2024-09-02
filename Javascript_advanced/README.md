@@ -1,0 +1,1 @@
+Closures y Scopes in JS
